@@ -9,5 +9,5 @@ print("\tголов: ", user["organs"]["head"])
 print("ой "*10)
 user["organs"]["head"] = 1
 print("\tголов: ", user["organs"]["head"])
-user["organs"]["body"]=1
+user["organs"]["body"] = 1
 print("\tи еще у меня есть " + str(user["organs"]["body"]) + " тело")
