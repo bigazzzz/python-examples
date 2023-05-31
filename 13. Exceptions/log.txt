@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:/Users/biga/PycharmProjects/PythonCourses/13. Exceptions/example_exception_07.py", line 11, in <module>
+    result = x/y
+ZeroDivisionError: division by zero

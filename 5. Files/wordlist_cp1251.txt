@@ -1,0 +1,8 @@
+username
+admin
+root
+webmaster
+login
+пользователь
+админ
+администратор
